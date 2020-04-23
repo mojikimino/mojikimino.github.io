@@ -20,12 +20,11 @@
 
 title: mkn blogs
 email: coffeeoriginal0@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-This is a technical blog.
+description: This is a technical blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
-github_username:  mojikimino
+github_username: mojikimino
 
 # Build settings
 theme: minima
